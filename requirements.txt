@@ -1,0 +1,3 @@
+pyrotgfork[fast]
+norsodikin
+python-dotenv
